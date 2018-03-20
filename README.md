@@ -20,11 +20,11 @@ ________
 
 ### 自我介绍(#自我介绍)
 #### 概况（#概况）
-* Listening to Tobu's *Sunburst*,I wrote these things down.As a nearly-graduate,everything seems to be whipped into th whirpool,socially.  People go more quickly ,so time does.For me ,as a part of them,undoubtedly I have to find something to ,yeah,basically live on.And then,  I consider about my interest,why not **program** and live a **traceour**'s life.Sound interesting.Huhhuh.
+    * Listening to Tobu's *Sunburst*,I wrote these things down.As a nearly-graduate,everything seems to be whipped into th whirpool,socially.  People go more quickly ,so time does.For me ,as a part of them,undoubtedly I have to find something to ,yeah,basically live on.And then,  I consider about my interest,why not **program** and live a **traceour**'s life.Sound interesting.Huhhuh.
 
-* After that,I have been kept studying ,in the programming world ,sometimes ***Github introduction and Practice*** ,sometimes ***Introduction to  Computer Science*** ,sometimes python ,sometimes basis and so on.But I can not maintain my motivation ,the going-forward thought in my mind  , even I spend the bigger time on it. `Time is like a cake,but it is not a piece of cake`.Maybe that's why I make little progress  on .Someone asked,what about your parkout time ? Haha,I always dreams about that thing,but it really takes time.At least a few years.
+    * After that,I have been kept studying ,in the programming world ,sometimes ***Github introduction and Practice*** ,sometimes ***Introduction to  Computer Science*** ,sometimes python ,sometimes basis and so on.But I can not maintain my motivation ,the going-forward thought in my mind  , even I spend the bigger time on it. `Time is like a cake,but it is not a piece of cake`.Maybe that's why I make little progress  on .Someone asked,what about your parkout time ? Haha,I always dreams about that thing,but it really takes time.At least a few years.
 
-* 看完我关注的一些帖子的大咖，大牛，来说的话，相较而言，我还处于起步阶段，啥也没有。计算机证书没有，打算去考个程序员，然后除了四六级证书，其他证书，觉得  浪费钱，然后就没去考。个人下一阶段目标，就是过一下软考吧，把程序员考上，然后再学习再提升。
+    * 看完我关注的一些帖子的大咖，大牛，来说的话，相较而言，我还处于起步阶段，啥也没有。计算机证书没有，打算去考个程序员，然后除了四六级证书，其他证书，觉得  浪费钱，然后就没去考。个人下一阶段目标，就是过一下软考吧，把程序员考上，然后再学习再提升。
 
 `要不说个中文试试`
  #### 性格（#性格）
