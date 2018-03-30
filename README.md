@@ -8,7 +8,6 @@ ________
 
 |Author|Anonylee|
 |---|---|
-|---|---|
 |E-mail|1453144725@qq.com
 
 ________
@@ -16,6 +15,8 @@ ________
 -  [自我介绍]
    -  [概况]
    -  [性格]
+      -[列表]
+      -[Todo]
 -  [我的计划]
 -  [最后]
 
@@ -38,6 +39,16 @@ ________
 * 才是王道安然就爱看机构爱逛啊高iu阿哥急啊急啊直接开机都嗯几分俏皮【附件发了；djadm.a,vmomajbojjaofuaojrlajv.a猫九江了解嗷嗷叫佛啊附件
 
 * 不是吗啊是国际控股就爱看两个就拉开就嘎两个i俺就哦啊日女啊u哦啊经纪人拉开距离案件哦i入局哦哎u肉i阿九阿九楼价啊人家柔然iu金佛
+
+ ##### Todo  
+> something we have to do,weicome to the update,whenever & whatever & wherever & whoever,as long as you like  
+> 拍证件照 简历  
+> `youku麻省理工大学公开课`  
+> `github入门与实践``精通git`  
+> `codecademy``css``python`
+> `博览天下``电脑报阅读`
+> `程序员教程`
+> To be continued……
 
  ### 最后
 > 附上一些资料链接  
