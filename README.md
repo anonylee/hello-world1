@@ -42,12 +42,12 @@ ________
 
  ##### Todo  
 > something we have to do,weicome to the update,whenever & whatever & wherever & whoever,as long as you like  
-> 拍证件照 简历  
+> 拍证件照 简历  
 > youku麻省理工大学公开课  
-> github入门与实践``精通git  
-> codecademy``css``python
-> 博览天下``电脑报阅读
-> 程序员教程
+> github入门与实践 精通git  
+> codecademy css python  
+> 博览天下 电脑报阅读  
+> 程序员教程  
 > To be continued……
 
  ### 最后
