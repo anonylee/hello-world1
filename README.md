@@ -48,6 +48,7 @@ ________
 > **codecademy** css __python__  
 > 博览天下 电脑报阅读  
 > 程序员教程  
+> 不如将博客打造成个人日记，如何（就是每一天的大事记当成一个branch）
 > To be continued……
 
  ### 最后
