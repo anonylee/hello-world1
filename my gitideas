@@ -3,9 +3,5 @@
 `gitcommit 保证gitcheckout对象处于最低端状态，不管是线性还是并列开发状态，以便提交所有数据状态`  
 `gitrebase,是变成伪线性程序的最后一步`  
 ```git  
-git checkout -b bugfix
-git commit
-git checkout master
-git commit
-git merge bugfix \\git bash
+git checkout -b bugfix;  git commit;  git checkout master;  git commit;  git merge bugfix \\git bash
 ```
