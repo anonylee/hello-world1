@@ -42,7 +42,7 @@ ________
 
  ##### Todo  
 > something we have to do,weicome to the update,whenever & whatever & wherever & whoever,as long as you like  
-> 拍证件照 简历  
+> 求职  
 > youku麻省理工大学公开课  
 > ***github入门与实践*** 精通git  
 > **codecademy** css __python__  
