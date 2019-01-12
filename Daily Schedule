@@ -1,8 +1,8 @@
 Daily Schedule
 ==============================
 
-# Three basic parts:  
-___###Moring___
+# Four basic parts:  
+___###Morning___
 ___###Afternoon___
 ___###Evening___
 ___~~###Night~~___（白天不懂夜的黑，夜里依旧peacebeauty）
@@ -24,15 +24,15 @@ ___~~###Night~~___（白天不懂夜的黑，夜里依旧peacebeauty）
 * 相关的Python项目，关注大牛，作出贡献（项目提升，善哉善哉）  
 * Projecteuler  
 
-## Evening（extra time,easy work,meaningful tiem as well)  
+## Evening（extra time,easy work,meaningful time as well)  
 * Sports(微博话题、运动课室超级话题)  
 * 《穿越计算机的迷雾》  
 * 《程序员电台节目》、收听广播、与电脑相关的书籍刊目如《电脑报》  
 * 《为何家会伤人》……等著作  
 
-```
-   The_whole_time = 36500
-   The_whole_time -= 1
+```Python 
+   The_whole_time = 36500 or less
    while not The_whole_time:
-   Keep moving whatever others take on you!Moving foooooooooooooooooooooorward!
+      Keep moving whatever others take on you!Moving foooooooooooooooooooooorward!
+      The_whole_time -= 1 #python
 ```
