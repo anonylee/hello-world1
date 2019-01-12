@@ -5,7 +5,7 @@ Daily Schedule
 ___###Moring___
 ___###Afternoon___
 ___###Evening___
-___~~###Night~~___
+___~~###Night~~___（白天不懂夜的黑，夜里依旧peacebeauty）
 
 ## Morning  
 * music   
@@ -14,14 +14,14 @@ ___~~###Night~~___
 * 计算机基础导论  
 * 算法图解  
     * 写篇总结分别概述一下各个算法的Python代码以及其他要点
-* githubtime >>>>>learngitbranch  
+* githubtime >>>>>learngitbranch（commit\branch\rebase\merge\checkout……）  
 
 ## Afternoon  
 * 主攻Python时间  
-    * python小甲鱼视频教程(还有深入参加鱼c论坛交流，会有意外收获，还有小c的web开发课程)  
+    * python小甲鱼视频教程(还有深入参加鱼c论坛交流，会有意外收获，还有小c的全套教学计划)  
     * 廖雪峰……  
     * 《像计算机科学家一样思考python》  
-* 相关的Python项目，关注大牛，作出贡献  
+* 相关的Python项目，关注大牛，作出贡献（项目提升，善哉善哉）  
 * Projecteuler  
 
 ## Evening（extra time,easy work,meaningful tiem as well)  
@@ -31,7 +31,8 @@ ___~~###Night~~___
 * 《为何家会伤人》……等著作  
 
 ```
-The_whole_time = 36500
-The_whole_time -+ 1
-Keep moving whatever others take on you!Moving foooooooooooooooooooooorward!
+   The_whole_time = 36500
+   The_whole_time -= 1
+   while not The_whole_time:
+   Keep moving whatever others take on you!Moving foooooooooooooooooooooorward!
 ```
